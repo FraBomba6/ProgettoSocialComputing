@@ -1,8 +1,9 @@
 # %%
 from config import *
+import ProgettoSocialComputing.serializer as se
 
 # %%
-users = ["mizzaro", "damiano10", "Miccighe", "eglu81", "KevintRoitero"]
+users = ["eglu81"]
 
 for user in users:
     print(f"Processing @{user}")
@@ -15,13 +16,11 @@ for user in users:
             skip_status=True,
             include_user_entities=False
     ).items():
-        found_follower = {"id": item.id,
-                          "name": item.name,
-                          "screen_name": item.screen_name,
-                          "location": item.location}
+        found_follower = item._json
 
         if found_follower not in user_followers:
             user_followers.append(found_follower)
 
     print(f"Found {len(user_followers)} followers for @{user}")
-    serialize_json(data_folder, f"{user}_followers.json", user_followers)
+    serializer = se.Serializer('followers')
+    serializer.serialize_json(f"{user}_followers.json", user_followers)
