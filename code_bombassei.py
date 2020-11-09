@@ -2,7 +2,7 @@
 import random
 
 from config import *
-import ProgettoSocialComputing.serializer as se
+import serializer as se
 
 # %%
 users = ["eglu81"]
