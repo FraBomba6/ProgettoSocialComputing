@@ -1,0 +1,145 @@
+{
+    "id": 132646210,
+    "id_str": "132646210",
+    "name": "Damiano Spina",
+    "screen_name": "damiano10",
+    "location": "Melbourne, Australia",
+    "profile_location": null,
+    "url": "http://damianospina.com",
+    "description": "PhD in Computer Science. Lecturer at @RMIT, @rmit_csit, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira ACDP @ACDP_Australia. Percussionist at @Wombatuque.",
+    "protected": false,
+    "followers_count": 786,
+    "friends_count": 836,
+    "listed_count": 52,
+    "created_at": "Tue Apr 13 20:19:36 +0000 2010",
+    "favourites_count": 2763,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2506,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Nov 05 04:47:21 +0000 2020",
+        "id": 1324211677437468672,
+        "id_str": "1324211677437468672",
+        "text": "RT @micros2021: Call for papers @micros2021 💡💡💡\nMICROS 2021: 1st Workshop on Mixed-Initiative ConveRsatiOnal Systems \nhttps://t.co/yzgRuY3V…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "micros2021",
+                    "name": "MICROS @ ECIR2021",
+                    "id": 1313137113454579717,
+                    "id_str": "1313137113454579717",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "micros2021",
+                    "name": "MICROS @ ECIR2021",
+                    "id": 1313137113454579717,
+                    "id_str": "1313137113454579717",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Nov 04 15:22:09 +0000 2020",
+            "id": 1324009041379708928,
+            "id_str": "1324009041379708928",
+            "text": "Call for papers @micros2021 💡💡💡\nMICROS 2021: 1st Workshop on Mixed-Initiative ConveRsatiOnal Systems… https://t.co/lzMdUZypHa",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "micros2021",
+                        "name": "MICROS @ ECIR2021",
+                        "id": 1313137113454579717,
+                        "id_str": "1313137113454579717",
+                        "indices": [
+                            16,
+                            27
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/lzMdUZypHa",
+                        "expanded_url": "https://twitter.com/i/web/status/1324009041379708928",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            102,
+                            125
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "010101",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1153990353332166657/HuvTpMqK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153990353332166657/HuvTpMqK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/132646210/1400853575",
+    "profile_link_color": "276627",
+    "profile_sidebar_border_color": "0C3E17",
+    "profile_sidebar_fill_color": "3FCE4F",
+    "profile_text_color": "60C168",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
