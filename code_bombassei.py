@@ -50,31 +50,35 @@ users = ["KevinRoitero"]
 for user in users:
     serializer = se.Serializer(f'data/{user}')
     json = serializer.read_json(f"{user}_followers.json")
-    for count in range(0, 1):
-        random_follower = random.choice(json)["screen_name"]
+    for count in range(0, 5):
+        random_follower = random.choice(json)
+        random_follower_screenName = random_follower["screen_name"]
+        random_follower_id = random_follower["id"]
         random_follower_followers = []
         for item in tweepy.Cursor(
                 api.followers,
-                screen_name=random_follower,
+                screen_name=random_follower_screenName,
                 skip_status=True,
                 include_user_entities=False
         ).items(10):
             found_follower = item._json
             random_follower_followers.append(found_follower)
-        print(f"Found {len(random_follower_followers)} followers for @{random_follower}")
-        serializer.serialize_json(f"random_{random_follower}_follower.json", random_follower_followers)
-'''
+        print(f"Found {len(random_follower_followers)} followers for @{random_follower_screenName}")
+        serializer.serialize_json(f"random_{random_follower_id}_follower.json", random_follower_followers)
+
     json = serializer.read_json(f"{user}_following.json")
     for count in range(0, 5):
-        random_friend = random.choice(json)["screen_name"]
+        random_friend = random.choice(json)
+        random_friend_screenName = random_friend["screen_name"]
+        random_friend_id = random_friend["id"]
         random_friend_friends = []
         for item in tweepy.Cursor(
                 api.friends,
-                screen_name=random_friend,
+                screen_name=random_friend_screenName,
                 skip_status=True,
                 include_user_entities=False
         ).items(10):
             found_friend = item._json
             random_friend_friends.append(found_friend)
         print(f"@{random_friend} follows {len(random_friend_friends)} users")
-        serializer.serialize_json(f"random_{random_friend}_following.json", random_friend_friends)'''
+        serializer.serialize_json(f"random_{random_friend_id}_following.json", random_friend_friends)
