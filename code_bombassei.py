@@ -64,7 +64,7 @@ for user in users:
             random_follower_followers.append(found_follower)
         print(f"Found {len(random_follower_followers)} followers for @{random_follower}")
         serializer = se.Serializer('./following')
-        serializer.serialize_json(f"{random_follower}_follower.json", random_follower_followers)
+        serializer.serialize_json(f"random_{random_follower}_follower.json", random_follower_followers)
 
     json = serializer.read_json(f"{user}_following.json")
     for count in range(0, 5):
@@ -78,6 +78,6 @@ for user in users:
         ).items(10):
             found_friend = item._json
             random_friend_friends.append(found_friend)
-        print(f"Found {len(random_friend_friends)} followers for @{random_friend}")
+        print(f"@{random_friend} follows {len(random_friend_friends)} users")
         serializer = se.Serializer('./following')
-        serializer.serialize_json(f"{random_friend}_follower.json", random_friend_friends)
+        serializer.serialize_json(f"random_{random_friend}_following.json", random_friend_friends)
