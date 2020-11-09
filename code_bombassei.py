@@ -20,7 +20,7 @@ for user in users:
         user_friends.append(found_friend)
 
     print(f"Found {len(user_friends)} followers for @{user}")
-    serializer = se.Serializer('followers')
+    serializer = se.Serializer('ProgettoSocialComputing/followers')
     serializer.serialize_json(f"{user}_followers.json", user_friends)
 
 # %%
@@ -41,5 +41,5 @@ for user in users:
         user_friends.append(found_friend)
 
     print(f"@{user} follows {len(user_friends)} users")
-    serializer = se.Serializer('following')
+    serializer = se.Serializer('ProgettoSocialComputing/following')
     serializer.serialize_json(f"{user}_following.json", user_friends)
