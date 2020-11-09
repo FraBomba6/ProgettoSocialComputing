@@ -46,7 +46,7 @@ for user in users:
     serializer.serialize_json(f"{user}_following.json", user_friends)
 
 # %%
-users = ["KevinRoitero"]
+users = ["mizzaro"]
 for user in users:
     serializer = se.Serializer(f'data/{user}')
     json = serializer.read_json(f"{user}_followers.json")
@@ -80,5 +80,5 @@ for user in users:
         ).items(10):
             found_friend = item._json
             random_friend_friends.append(found_friend)
-        print(f"@{random_friend} follows {len(random_friend_friends)} users")
+        print(f"@{random_friend_screenName} follows {len(random_friend_friends)} users")
         serializer.serialize_json(f"random_{random_friend_id}_following.json", random_friend_friends)
