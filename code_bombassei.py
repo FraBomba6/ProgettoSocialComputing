@@ -1,6 +1,5 @@
 # %%
 import random
-
 from config import *
 import serializer as se
 
