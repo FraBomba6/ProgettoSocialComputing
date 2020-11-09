@@ -46,11 +46,11 @@ for user in users:
     serializer.serialize_json(f"{user}_following.json", user_friends)
 
 # %%
-users = ["mizzaro", "damiano10", "Miccighel_", "eglu81", "KevinRoitero"]
+users = ["KevinRoitero"]
 for user in users:
     serializer = se.Serializer(f'data/{user}')
     json = serializer.read_json(f"{user}_followers.json")
-    for count in range(0, 5):
+    for count in range(0, 1):
         random_follower = random.choice(json)["screen_name"]
         random_follower_followers = []
         for item in tweepy.Cursor(
@@ -63,7 +63,7 @@ for user in users:
             random_follower_followers.append(found_follower)
         print(f"Found {len(random_follower_followers)} followers for @{random_follower}")
         serializer.serialize_json(f"random_{random_follower}_follower.json", random_follower_followers)
-
+'''
     json = serializer.read_json(f"{user}_following.json")
     for count in range(0, 5):
         random_friend = random.choice(json)["screen_name"]
@@ -77,4 +77,4 @@ for user in users:
             found_friend = item._json
             random_friend_friends.append(found_friend)
         print(f"@{random_friend} follows {len(random_friend_friends)} users")
-        serializer.serialize_json(f"random_{random_friend}_following.json", random_friend_friends)
+        serializer.serialize_json(f"random_{random_friend}_following.json", random_friend_friends)'''
