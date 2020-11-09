@@ -17,6 +17,7 @@ for user in users:
             include_user_entities=False
     ).items():
         found_follower = item._json
+        user_followers.append(found_follower)
 
     print(f"Found {len(user_followers)} followers for @{user}")
     serializer = se.Serializer('followers')
