@@ -1,8 +1,8 @@
 # %%
 import random
-from config import *
+
 import serializer as se
-import friendship
+from config import *
 
 # %%
 users = ["eglu81"]
@@ -161,5 +161,5 @@ for account in accounts:
     account_json = serializer.read_json(f"{account}_profile.json")
     account_id = account_json["id"]
     for user in users:
-        if user["id"] is not account_id:
+        if user["id"] is not account_id and user["id"] not in accounts:
             edges.append(get_friendship(account_id, user["id"], api))
