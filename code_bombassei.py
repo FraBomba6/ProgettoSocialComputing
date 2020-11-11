@@ -2,6 +2,7 @@
 import random
 from config import *
 import serializer as se
+import friendship
 
 # %%
 users = ["eglu81"]
@@ -25,7 +26,7 @@ for user in users:
     serializer.serialize_json(f"{user}_followers.json", user_friends)
 
 # %%
-users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
+users = ["eglu81"]
 
 for user in users:
     print(f"Processing @{user}")
@@ -46,7 +47,7 @@ for user in users:
     serializer.serialize_json(f"{user}_following.json", user_friends)
 
 # %%
-users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
+users = ["mizzaro"]
 for user in users:
     serializer = se.Serializer(f'data/{user}')
     json = serializer.read_json(f"{user}_followers.json")
@@ -84,38 +85,81 @@ for user in users:
         serializer.serialize_json(f"random_{random_friend_id}_following.json", random_friend_friends)
 
 # %%
-users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
+users = ["mizzaro", "damiano10", "Micchighel_", "eglu81", "KevinRoitero"]
+error_count = 0
+duplicate_count = 0
+all_users = []
 processed_ids = []
+print(f"Start at {datetime.now()}")
 for user in users:
+    print(
+        f'\n\n*************************************\nProcessing {user} and his friends\n*************************************')
     serializer = se.Serializer(f'data/{user}')
     with os.scandir(f'data/{user}') as it:
         for entry in it:
             if entry.name.endswith('.json') and not entry.name.endswith('profile.json'):
+                print('\n\n******************')
                 json = serializer.read_json(f"{entry.name}")
+                print(f'\nProcessing {entry.name}, containing {len(json)} users\n******************\n\n')
                 for account in json:
                     if account["id"] not in processed_ids:
-                        processed_ids.append(account["id"])
-all_users = []
-range_end = len(processed_ids)//100
-for i in range(0, range_end + 1):
-    start_index = i*100
-    end_index = start_index + 100
-    if i == range_end:
-        end_index = len(processed_ids)
-    users_chunk = api.lookup_users(processed_ids[start_index:end_index])
-    for user_obj in users_chunk:
-        account_details = user_obj._json
-        useful_account_details = {
-            "id": account_details["id"],
-            "name": account_details["name"],
-            "screen_name": account_details["screen_name"],
-            "description": account_details["description"],
-            "followers_count": account_details["followers_count"],
-            "friends_count": account_details["friends_count"],
-            "profile_image_url_https": account_details["profile_image_url_https"]
-        }
-        all_users.append(useful_account_details)
-serializer = se.Serializer(f'data')
-serializer.serialize_json(f"all_users.json", all_users)
+                        try:
+                            print(f'Processing {account["id"]}, user #{len(all_users) + 1}')
+                            account_details = api.get_user(account["id"])._json
+                            useful_account_details = {
+                                "id": account_details["id"],
+                                "name": account_details["name"],
+                                "screen_name": account_details["screen_name"],
+                                "description": account_details["description"],
+                                "followers_count": account_details["followers_count"],
+                                "friends_count": account_details["friends_count"],
+                                "profile_image_url_https": account_details["profile_image_url_https"]
+                            }
+                            all_users.append(useful_account_details)
+                            processed_ids.append(account_details["id"])
+                        except tweepy.TweepError:
+                            error_count += 1
+                            print("Skipped user because of error")
+                    else:
+                        duplicate_count += 1
+all_users_serializer = se.Serializer('data')
+print('\n\n*************************************\n')
+all_users_serializer.serialize_json(f"all_users.json", all_users)
+print('\n*************************************\n\n')
+print(f'Found {error_count} errors and {duplicate_count} duplicates')
+
 
 # %%
+
+def get_friendship(sourceid, targetid, api):
+    kind = ""
+
+    friendship = api.show_friendship(source_id=sourceid, target_id=targetid)
+
+    if not friendship[0].following and not friendship[0].followed_by:
+        kind = "none"
+    elif not friendship[0].following and friendship[0].followed_by:
+        kind = "r_l"
+    elif friendship[0].following and not friendship[0].followed_by:
+        kind = "l_r"
+    else:
+        kind = "bi"
+
+    return {
+        "source_id": sourceid,
+        "target_id": targetid,
+        "friendship": kind
+    }
+
+
+accounts = ["mizzaro", "damiano10", "Miccighel_", "eglu81", "KevinRoitero"]
+serializer = se.Serializer('data')
+users = serializer.read_json("all_users.json")
+edges = []
+for account in accounts:
+    serializer = se.Serializer(f'data/{account}')
+    account_json = serializer.read_json(f"{account}_profile.json")
+    account_id = account_json["id"]
+    for user in users:
+        if user["id"] is not account_id:
+            edges.append(get_friendship(account_id, user["id"], api))
