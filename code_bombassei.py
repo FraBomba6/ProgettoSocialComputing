@@ -25,7 +25,7 @@ for user in users:
     serializer.serialize_json(f"{user}_followers.json", user_friends)
 
 # %%
-users = ["eglu81"]
+users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
 
 for user in users:
     print(f"Processing @{user}")
@@ -46,7 +46,7 @@ for user in users:
     serializer.serialize_json(f"{user}_following.json", user_friends)
 
 # %%
-users = ["mizzaro"]
+users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
 for user in users:
     serializer = se.Serializer(f'data/{user}')
     json = serializer.read_json(f"{user}_followers.json")
@@ -82,3 +82,40 @@ for user in users:
             random_friend_friends.append(found_friend)
         print(f"@{random_friend_screenName} follows {len(random_friend_friends)} users")
         serializer.serialize_json(f"random_{random_friend_id}_following.json", random_friend_friends)
+
+# %%
+users = ["damiano10", "eglu81", "KevinRoitero", "Miccighel_", "mizzaro"]
+processed_ids = []
+for user in users:
+    serializer = se.Serializer(f'data/{user}')
+    with os.scandir(f'data/{user}') as it:
+        for entry in it:
+            if entry.name.endswith('.json') and not entry.name.endswith('profile.json'):
+                json = serializer.read_json(f"{entry.name}")
+                for account in json:
+                    if account["id"] not in processed_ids:
+                        processed_ids.append(account["id"])
+all_users = []
+range_end = len(processed_ids)//100
+for i in range(0, range_end + 1):
+    start_index = i*100
+    end_index = start_index + 100
+    if i == range_end:
+        end_index = len(processed_ids)
+    users_chunk = api.lookup_users(processed_ids[start_index:end_index])
+    for user_obj in users_chunk:
+        account_details = user_obj._json
+        useful_account_details = {
+            "id": account_details["id"],
+            "name": account_details["name"],
+            "screen_name": account_details["screen_name"],
+            "description": account_details["description"],
+            "followers_count": account_details["followers_count"],
+            "friends_count": account_details["friends_count"],
+            "profile_image_url_https": account_details["profile_image_url_https"]
+        }
+        all_users.append(useful_account_details)
+serializer = se.Serializer(f'data')
+serializer.serialize_json(f"all_users.json", all_users)
+
+# %%
