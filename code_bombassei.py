@@ -152,7 +152,7 @@ def get_friendship(sourceid, targetid, api):
     }
 
 
-accounts = ["mizzaro", "damiano10", "Miccighel_", "eglu81", "KevinRoitero"]
+accounts = ["mizzaro"]
 serializer = se.Serializer('data')
 users = serializer.read_json("all_users.json")
 edges = []
@@ -161,5 +161,6 @@ for account in accounts:
     account_json = serializer.read_json(f"{account}_profile.json")
     account_id = account_json["id"]
     for user in users:
-        if user["id"] is not account_id and user["id"] not in accounts:
+        if user["id"] is not account_id:
             edges.append(get_friendship(account_id, user["id"], api))
+    serializer.serialize_json(f'{account}_friendships.json', edges)
