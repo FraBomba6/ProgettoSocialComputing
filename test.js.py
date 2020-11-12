@@ -6,7 +6,7 @@ twitter = pkl.read_gpickle("graph/graph_networkx.pkl")
 nt = Network(height="100%", width="100%", bgcolor="#111111", font_color="white",
              heading="Twitter Graph - Broken Edition")
 
-node = list(twitter.nodes)[:2000]
+node = list(twitter.nodes)
 twitter = twitter.subgraph(node)
 
 nt.barnes_hut()  # (gravity=-5000, central_gravity=0, spring_length=200, spring_strength=0.009, damping=0.025, overlap=0) #me li mette un po vicini il damping verso 1 credo #gravity ti mostra subito i nodi per bene

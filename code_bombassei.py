@@ -165,3 +165,12 @@ for account in accounts:
             edges.append(get_friendship(account_id, user["id"], api))
             pp.pprint(f"Added friendship between {account} and {user['screen_name']}")
     serializer.serialize_json(f'{account}_friendships.json', edges)
+
+# %%
+accounts = ["mizzaro", "damiano10", "eglu81"]  # , "KevinRoitero", "Miccighel_"]
+json = []
+for account in accounts:
+    serializer = se.Serializer(f'data/{account}')
+    json.append(serializer.read_json(f"{account}_friendships.json"))
+serializer = se.Serializer('data')
+serializer.serialize_json("all_friendships.json", json)
