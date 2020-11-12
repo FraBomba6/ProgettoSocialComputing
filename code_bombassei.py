@@ -176,3 +176,6 @@ for account in accounts:
         json.append(friendship)
 serializer = se.Serializer('data')
 serializer.serialize_json("all_friendships.json", json)
+
+serializer = se.Serializer('data')
+print(len(serializer.read_json("all_users.json")))
