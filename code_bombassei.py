@@ -156,6 +156,7 @@ accounts = ["mizzaro"]
 serializer = se.Serializer('data')
 users = serializer.read_json("all_users.json")
 edges = []
+count = 0
 for account in accounts:
     serializer = se.Serializer(f'data/{account}')
     account_json = serializer.read_json(f"{account}_profile.json")
@@ -163,7 +164,9 @@ for account in accounts:
     for user in users:
         if user["id"] is not account_id:
             edges.append(get_friendship(account_id, user["id"], api))
-            pp.pprint(f"Added friendship between {account} and {user['screen_name']}")
+            count += 1
+            pp.pprint(f"Added friendship between {account} and {user['screen_name']} #{count}")
+
     serializer.serialize_json(f'{account}_friendships.json', edges)
 
 # %%
@@ -177,5 +180,6 @@ for account in accounts:
 serializer = se.Serializer('data')
 serializer.serialize_json("all_friendships.json", json)
 
-serializer = se.Serializer('data')
-print(len(serializer.read_json("all_users.json")))
+# %%
+serializer = se.Serializer('data/mizzaro')
+print(len(serializer.read_json("mizzaro_friendships.json")))
