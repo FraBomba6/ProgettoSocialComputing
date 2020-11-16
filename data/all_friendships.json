@@ -78148,5 +78148,2505 @@
         "source_id": 15750573,
         "target_id": 1106858899028750336,
         "friendship": "none"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 14909989,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 65915718,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 18874262,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 101045085,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 3363584909,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 1280838371682779136,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 3061580480,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 2190533245,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 2527017636,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 249661913,
+        "target_id": 19659370,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 1290962911846965253,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 18212327,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 1623236238,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 2327342227,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 917432984151699456,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 774184197367828480,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 1243624264999350272,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 835513301035515905,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 90018200,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2826508686,
+        "target_id": 370607603,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 1935065210,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 409260476,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 3070486020,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 1593603722,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 349736945,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 409316483,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 2391615059,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 37444046,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 2469280256,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2877269332,
+        "target_id": 177833090,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 924666754055499776,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 4620612027,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 1015735185063731200,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 888416245271408641,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 417296891,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 92082793,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 2893424886,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 1322208377578024960,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 344732405,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3041372326,
+        "target_id": 1056870885586427905,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 138625806,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 2923880250,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 73282913,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 14370531,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 256453390,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 874847778119266304,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 312302998,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 20452017,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 14671369,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3102522680,
+        "target_id": 14078497,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 918943909811769344,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 2269670047,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 1182908622113660929,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 92344379,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 864922788,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 4037107874,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 183036543,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 1114432920121376768,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 896036165350019073,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3761306416,
+        "target_id": 229601276,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 1275912964915302403,
+        "friendship": "none"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 14616323,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 22513981,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 128667648,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 407991717,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 1312302334001786880,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 1314445891185639425,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 3248798612,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 147558711,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 500950174,
+        "target_id": 1312940910351724544,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 616538728,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 864197223415857152,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 593838675,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 3248108476,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 3114024675,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 188738114,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 122147353,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 3080139216,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 2299472957,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 55044770,
+        "target_id": 535703225,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1099250750155354114,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 94732055,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1202992249014910976,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 2932426928,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 934309185579245568,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 63988926,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1151403359976378368,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1579976473,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 772574162,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 3128829965,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 754101056,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 3036907250,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 1449508849,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 716690953344573445,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 782978022211260416,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 254650534,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 2902846084,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 706993460193005568,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 4748922521,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 788839271239184385,
+        "target_id": 2697948181,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 1369078711,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 344732405,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 1318834900590563328,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 1047510767623458816,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 396680992,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 1101500498564313090,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 1082541680811601920,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 3095317209,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 4757822298,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1019221160742014976,
+        "target_id": 15455450,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 1184647243,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 15982862,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 963902391643967488,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 1683356204,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 202420697,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 463165824,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 2866860231,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 91232741,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 50504510,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1037548569467731968,
+        "target_id": 1512533401,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 743555605881839616,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 1301385623048204289,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 281110533,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 4503314773,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 50179786,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 781604803994591232,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 884839252382461952,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 3696565696,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 3367336625,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1217315090,
+        "target_id": 2661769334,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 41342715,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 156204739,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 37162329,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 3551532493,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 1293232367667118081,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 1309595320582574083,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 837662452728938496,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 963747675479986177,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 20314655,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 135508015,
+        "target_id": 1277240255364595713,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 924666754055499776,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 1197983964121706497,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 165771311,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 1187585868493537280,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 819736493048504320,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 768288307532836864,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 1223276300959473664,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 964558325001211904,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 988539950965645314,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 201194687,
+        "target_id": 4859761,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 311722513,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 1897531123,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 1301048936,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 238675940,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 19091173,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 21611239,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 950033951560781824,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 1014262328995373056,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 3105470573,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 2153743237,
+        "target_id": 54158776,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 1467655320,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 41394832,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 618243901,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 210060296,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 137445143,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 1105426341393035269,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 1071846374805827589,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 2445207068,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 1048454978929668096,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 3341697257,
+        "target_id": 988553822699229184,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 924515008175800320,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 14616323,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 802669828473393152,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 3612374053,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1274338308877778944,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1263908511022329856,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1263498809918623745,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1264181469460566019,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1273915723438419968,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 809848752,
+        "target_id": 1174418312,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 1193181152326168578,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 81842422,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 953900156042215426,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 1296073116192583680,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 2850336399,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 1016986247821234176,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 975726263565471745,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 1391876622,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 14447365,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 81875677,
+        "target_id": 931830706258538497,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 2991839723,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 1280011279835566080,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 823534556,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 2330825383,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 35723206,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 874221157,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 1016779982687883267,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 2971551123,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 113714786,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 989428140433866752,
+        "target_id": 111659710,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 793483735018504192,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 1249761354686185472,
+        "friendship": "none"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 251035671,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 185946681,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 270571369,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 2322434384,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 1288652763795251201,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 42597896,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 24437704,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 106023728,
+        "target_id": 1282351866622468096,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 1215692611576651776,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 14616323,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 1318315659886026757,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 1021915801,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 1208357855646105601,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 2318219072,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 406303880,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 906922846412267521,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 715306704762761216,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1206594224537448449,
+        "target_id": 1289848492983234560,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 15098373,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 463765807,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 1144556445570146305,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 41603960,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 1121103000041394176,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 2922928743,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 131497030,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 80654397,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 1187169571230236672,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 121881387,
+        "target_id": 1194654661447434243,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 29274412,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 59389667,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 2324423269,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 14100619,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 1187585868493537280,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 472145673,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 990317363915579392,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 101045085,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 97498167,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 139811295,
+        "target_id": 3127370223,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 25060700,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 705113652471439361,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 14451083,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 106385926,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 14331818,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 14515931,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 2384071,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 519744095,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 3568951,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 17455229,
+        "target_id": 383173,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 863320472641044481,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 14606079,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 1428908562,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 2717961126,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 120170305,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 19412785,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 18992846,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 1268518472331526145,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 52544275,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 225110274,
+        "target_id": 471672239,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 790943237871546368,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 21189352,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1304171359220662272,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1319221517373345793,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1317558828595073025,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1314215039306399744,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1089371687785684992,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 1232249402749792257,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 2799661061,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 373580725,
+        "target_id": 48421919,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 250160844,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 1182908622113660929,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 117111043,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 9928752,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 1293232367667118081,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 1320869539718938629,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 2523883750,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 1298672332702199815,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 2340681860,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 393675585,
+        "target_id": 37162329,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 836543852144123904,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 5645142,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 8095292,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 14471545,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 581357750,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 849844711388872704,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 754057337539735553,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 20069155,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 839338759330152453,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 5921452,
+        "target_id": 29090443,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 18325271,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 2256418988,
+        "friendship": "none"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 1191383721460535302,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 2463716958,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 1041287212405415936,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 3551532493,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 789976214941425665,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 1052016373583368192,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 993576667208601600,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 75071601,
+        "target_id": 190564700,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 41353586,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 25163563,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 516474576,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 24437704,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 335829830,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 3150832239,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 1176466683231424513,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 778982023415291904,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 126278707,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1111315973125169152,
+        "target_id": 1170777348632993798,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 1199828414259191809,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 585968039,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 2326512966,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 4047831672,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 520938512,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 349359039,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 3333340047,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 4054621529,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 126176821,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1734817550,
+        "target_id": 495991256,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 14763477,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 19626509,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1579778748,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 2890854807,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1313137113454579717,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 897923075060006912,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 93781753,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1609328383,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 561226226,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 892954139319087104,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 3386205249,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1256240551118200835,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 87473622,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1311432781084360704,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 874632132353826816,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 356775978,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 3102522680,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 1579778748,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 330597206,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 308456550,
+        "target_id": 201194687,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 113074412,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 1240917803181281280,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 167650125,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 484431744,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 2496118424,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 71596667,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 1275995717144846336,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 3049532251,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 958713793944567809,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 350164545,
+        "target_id": 1201889919645503488,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 939091,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 803694179079458816,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 1287104705185939456,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 178502172,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 1609328383,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 301178769,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 213273608,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 1073974163704958976,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 22006084,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 406303880,
+        "target_id": 95056074,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 28825558,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 405986816,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 2363136781,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 2730376793,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 31294118,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 37276500,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 19956004,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 70918169,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 1627158452,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 73509664,
+        "target_id": 876082551739133953,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 22042515,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1251182739035795463,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1284176128534409216,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1168926603855958017,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1099250750155354114,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1147571560175173632,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1251059396991311872,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1251043549631504385,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1251108504653361152,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 735809541456027648,
+        "target_id": 1251034648492138498,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 193755075,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 456156498,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 1225090677597442048,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 3261620311,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 2272178100,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 81737577,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 248792951,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 81143606,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 14920433,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 824668943285702661,
+        "target_id": 1198359083042168833,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 323800456,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 796292827013664768,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 499951209,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 2748876135,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 1287044423566495744,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 1290323898542817280,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 1209044136667623424,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 1239872423522156544,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 493989723,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 829903626,
+        "target_id": 1106858899028750336,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 741096203962703872,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 261247799,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 2150777800,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 2798949806,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 2778958355,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 1366239290,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 2275885979,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 178707842,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 731400846,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1009253378,
+        "target_id": 587573624,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 21040811,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 2800101466,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 2352463435,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 26548623,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 517814011,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 3026881800,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 757243969,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 1498757215,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 3139062246,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1023096199,
+        "target_id": 757275613,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 223340768,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 2982419501,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 1625121637,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 518691184,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 1295458453775843329,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 983002069845053442,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 1247654723630632966,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 1270768222334324741,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 15175368,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 1578022897,
+        "target_id": 769160974444138496,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1275036975339315201,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1319958702447874048,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 3102517210,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1305859835146113024,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1304319175247228928,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1298033479112777728,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1295017044618944515,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 606694352,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1284008291308154880,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 16136478,
+        "target_id": 1285880635341635584,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 1236865902252982273,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 2196922086,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 1337029176,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 316645911,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 1124980053388005377,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 751823351132323841,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 993682160744738816,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 56927066,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 853679791148597249,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 220020080,
+        "target_id": 569370417,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 465343577,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 71502653,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3288366862,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3289963282,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3212004077,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3295729655,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3117516609,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3297578133,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 466320191,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 294119630,
+        "target_id": 3302233660,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 91193025,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 321970500,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 944801372,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 60050843,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 405357311,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 378227223,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 20384956,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 72018889,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 50956443,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 36094947,
+        "target_id": 175529610,
+        "friendship": "l_r"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 539602655,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 1162813242378530817,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 2575655083,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 765998889874952193,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 885569839447912448,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 433467515,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 787311352801034240,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 1467209336,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 1591629451,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 46508246,
+        "target_id": 1466680657,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 196346352,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 978272886795448321,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 38333555,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 406071620,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 703291291837308929,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 3319275248,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 10234332,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 2319466921,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 2868389624,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 59913797,
+        "target_id": 45499791,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 1060416512668979200,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 3222281791,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 877201145940373506,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 790332409875095554,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 798378915047809024,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 798395820777279488,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 749836451785867264,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 633640698,
+        "friendship": "r_l"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 211520922,
+        "friendship": "bi"
+    },
+    {
+        "source_id": 790342394675888128,
+        "target_id": 3437940587,
+        "friendship": "bi"
     }
 ]
