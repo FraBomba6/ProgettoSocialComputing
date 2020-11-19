@@ -1,0 +1,9 @@
+key = "socialcomputingsocialcomputingsocialcomputingsocialcomputing"
+
+secret = "socialcomputingsocialcomputingsocialcomputingsocialcomputing"
+
+bearer = "socialcomputingsocialcomputingsocialcomputingsocialcomputingsocialcomputingsocialcomputingsocialcomputingsocialcomputing"
+
+access_token = "socialcomputingsocialcomputingsocialcomputingsocialcomputing"
+
+access_secret = "socialcomputingsocialcomputingsocialcomputingsocialcomputing"
