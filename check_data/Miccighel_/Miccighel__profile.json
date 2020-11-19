@@ -26,40 +26,30 @@
         }
     },
     "protected": false,
-    "followers_count": 332,
+    "followers_count": 334,
     "friends_count": 212,
     "listed_count": 20,
     "created_at": "Wed Aug 06 14:45:28 +0000 2008",
-    "favourites_count": 4208,
+    "favourites_count": 4209,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 10311,
+    "statuses_count": 10312,
     "lang": null,
     "status": {
-        "created_at": "Sun Nov 15 16:40:24 +0000 2020",
-        "id": 1328015002289180672,
-        "id_str": "1328015002289180672",
-        "text": "5 of 5 stars to Il tallone di ferro by Jack London https://t.co/nYFMi5HEdU",
+        "created_at": "Tue Nov 17 17:31:11 +0000 2020",
+        "id": 1328752557259370499,
+        "id_str": "1328752557259370499",
+        "text": "Ma io non l’ho mica capita sta storia delle scarpe della LIDL 🤷🏼‍♂️",
         "truncated": false,
         "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [],
-            "urls": [
-                {
-                    "url": "https://t.co/nYFMi5HEdU",
-                    "expanded_url": "https://www.goodreads.com/review/show/3633354577",
-                    "display_url": "goodreads.com/review/show/36…",
-                    "indices": [
-                        51,
-                        74
-                    ]
-                }
-            ]
+            "urls": []
         },
-        "source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": null,
@@ -71,11 +61,10 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
+        "lang": "it"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -98,7 +87,5 @@
     "following": false,
     "follow_request_sent": false,
     "notifications": false,
-    "translator_type": "none",
-    "suspended": false,
-    "needs_phone_verification": false
+    "translator_type": "none"
 }
