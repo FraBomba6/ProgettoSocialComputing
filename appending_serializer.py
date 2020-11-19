@@ -12,9 +12,12 @@ class Serializer:
         self.pp = pprint.PrettyPrinter()
 
     def serialize_json(self, filename, data):
-        with open(f"{self.path}/{filename}", "w", encoding="utf8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-            print(f"Data serialized to path: {self.path}/{filename}")
+        with open(f"{self.path}/{filename}", "r", encoding="utf8") as f:
+            ob = json.load(f)
+            ob.append(data)
+        with open(f"{self.path}/{filename}", "w", encoding="utf8") as newf:
+            json.dump(ob, newf, ensure_ascii=False, indent=4)
+        print(f"Data serialized to path: {self.path}/{filename}")
 
     def read_json(self, file_name):
         complete_path = f"{self.path}/{file_name}"
